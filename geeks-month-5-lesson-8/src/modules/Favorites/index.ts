@@ -1,0 +1,1 @@
+export { useFavoritesStore } from "./api/favorites-store";
